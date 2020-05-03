@@ -1,0 +1,17 @@
+Introduction
+The introduction part explains the purpose of the paper- the role of errors in logics or in the implementation of logics- in automata-synthesis. Errors should not be treated as exterior to the process but rather they are a part of the process.
+Author feels that the present error treatment is not satisfactory. Errors should be treated by the Thermodynamical methods. The present treatment acts as a building block to the final structure.
+Author thanks R.S. Pierce on whose notes this paper is based on. Also, special mention to the California Institute of Technology and the audience for the warm reception.
+
+Logics and Automata
+It has been pointed out that the constructive logics and intuitionistic logics can be best studied under Automata.
+Logical proportions are represented with symbols whereas nervous system can be represented with neurons and electrical system with relays.
+A logical representation is a black box with number of inputs and corresponding outputs.
+However, the logics doesn't capture the delay of time which the nervous system associates with. There is a lag between the input and the output.
+
+Key words
+
+Synthesis- the combination of components or elements to form a connected whole.
+Logics- the systematic use of symbolic and mathematical techniques to determine the forms of valid deductive argument. 
+Automata- A moving mechanical device made in imitation of a human being
+
